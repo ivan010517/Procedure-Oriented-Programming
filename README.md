@@ -52,21 +52,21 @@ The requirement of this assignment is as follows:
       done so yet in the first homework assignment, this time you may want to use mymalloc instead of
       malloc, mycalloc instead of calloc, and so forth.
       
-Taking into account the interface and implementation, you are supposed to have at least the following files:  
-    – list <type>.h,  
-    – list <type>.c,  
-    – stack <type>.h,  
-    – stack <type>.c,  
-    – queue <type>.h,  
-    – queue <type>.c,  
-    – list <ptr to type>.h,  
-    – list <ptr to type>.c,  
-    – stack <ptr to type>.h,  
-    – stack <ptr to type>.c,  
-    – queue <ptr to type>.h,  
-    – queue <ptr to type>.c,  
-    – mm.h, and  
-    – mm.c,  
+  Taking into account the interface and implementation, you are supposed to have at least the following files:  
+  – list <type>.h,  
+  – list <type>.c,  
+  – stack <type>.h,  
+  – stack <type>.c,  
+  – queue <type>.h,  
+  – queue <type>.c,  
+  – list <ptr to type>.h,  
+  – list <ptr to type>.c,  
+  – stack <ptr to type>.h,  
+  – stack <ptr to type>.c,  
+  – queue <ptr to type>.h,  
+  – queue <ptr to type>.c,  
+  – mm.h, and  
+  – mm.c,  
 
   where <type> denotes char, short, int, long, float, and double; <ptr to type> denotes
   pointer to char, short, int, long, float, and double. Moreover, it is up to you to define the
